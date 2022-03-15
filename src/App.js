@@ -50,7 +50,7 @@ function App() {
      <section className="main">
   <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="Prasu images" />
 
-
+   <h2>{item.name}</h2>
    <h3>{item.hno}</h3>
    <h3>{item.edu}</h3>
    <h1>Languages Known:</h1>
